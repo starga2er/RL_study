@@ -1,0 +1,7 @@
+gym
+numpy
+matplotlib
+torch
+torchvision
+ray
+ray[rllib]
